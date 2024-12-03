@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+
+.header{
+    Text-align:center
+}
+
+.kizi{
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+}
+
+.url{
+    width: 200px;
+    margin: auto;
+}
